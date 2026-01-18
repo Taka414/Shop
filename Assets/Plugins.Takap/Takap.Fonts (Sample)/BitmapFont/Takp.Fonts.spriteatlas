@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Takp.Fonts
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d581d08d261cd0445ab02c01f9a3e332, type: 3}
+    - {fileID: 2800000, guid: d15020ca72988cb4ba9b5b6772042aec, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - d6144541c6f32a04fb71023f08289cda: 21300000
+    - 663b94e215eb33845924f994a873be28: 21300000
+    - 9d8aaf6763f68b04c8f2c0d456f10941: 21300000
+    - c6415da81faef074192bf1b9c74dc442: 21300000
+    - 397da129ae3b4694f9aba83f4c8a6f9b: 21300000
+    - d15020ca72988cb4ba9b5b6772042aec: 21300000
+    - 351da5caa7e9a5d41a762a97bd8d1a13: 21300000
+    - 9457b9acfcd519e439a328cdb2bd7e83: 21300000
+    - 8ed8e83d3e5555d4b906ca8885df6fdf: 21300000
+    - f12df44d22420df489d6dff247f935eb: 21300000
+    - 6e32274dec6f3ef47a690f55833c6d0d: 21300000
+    - 3fd8dd6d249b38f4fb78a0c63d128c4e: 21300000
+    - a752a32f019dd22428cff4c84875265c: 21300000
+    - 37086f5fadf2fbc48a52157a78836065: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d6144541c6f32a04fb71023f08289cda, type: 3}
+  - {fileID: 21300000, guid: 663b94e215eb33845924f994a873be28, type: 3}
+  - {fileID: 21300000, guid: 9d8aaf6763f68b04c8f2c0d456f10941, type: 3}
+  - {fileID: 21300000, guid: c6415da81faef074192bf1b9c74dc442, type: 3}
+  - {fileID: 21300000, guid: 397da129ae3b4694f9aba83f4c8a6f9b, type: 3}
+  - {fileID: 21300000, guid: d15020ca72988cb4ba9b5b6772042aec, type: 3}
+  - {fileID: 21300000, guid: 351da5caa7e9a5d41a762a97bd8d1a13, type: 3}
+  - {fileID: 21300000, guid: 9457b9acfcd519e439a328cdb2bd7e83, type: 3}
+  - {fileID: 21300000, guid: 8ed8e83d3e5555d4b906ca8885df6fdf, type: 3}
+  - {fileID: 21300000, guid: f12df44d22420df489d6dff247f935eb, type: 3}
+  - {fileID: 21300000, guid: 6e32274dec6f3ef47a690f55833c6d0d, type: 3}
+  - {fileID: 21300000, guid: 3fd8dd6d249b38f4fb78a0c63d128c4e, type: 3}
+  - {fileID: 21300000, guid: a752a32f019dd22428cff4c84875265c, type: 3}
+  - {fileID: 21300000, guid: 37086f5fadf2fbc48a52157a78836065, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CoopBold_White_Frame_None
+  - CoopBold_White_Frame_Black
+  - Pix8b_Black_Frame_White
+  - Babarageo3_White_Frame_Black
+  - Pix3_White_Frame_None
+  - EmptyTexture_128x128
+  - Pix8b_White_Frame_Black
+  - Qubrick_White_Frame_None
+  - Babarageo3_White_Frame_None
+  - Pix8b_White_Frame_None
+  - Qubrick_White_Frame_Black
+  - Pix3_White_Frame_Black
+  - Qubrick_Black_Frame_White
+  - Pix3_Black_Frame_White
+  m_RenderDataMap: {}
+  m_Tag: Takp.Fonts
+  m_IsVariant: 0

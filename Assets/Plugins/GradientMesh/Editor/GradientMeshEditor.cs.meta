@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 899b5a7b112c5d4459461b19d073bee5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145537
+  packageName: Gradient Mesh
+  packageVersion: 1.03
+  assetPath: Assets/GradientMesh/Editor/GradientMeshEditor.cs
+  uploadId: 661650

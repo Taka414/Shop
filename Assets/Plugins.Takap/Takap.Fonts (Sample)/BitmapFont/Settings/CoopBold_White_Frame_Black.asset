@@ -1,0 +1,468 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c049777bb46c8344f87f5a9b207a2e98, type: 3}
+  m_Name: CoopBold_White_Frame_Black
+  m_EditorClassIdentifier: 
+  _sourceTexture: {fileID: 2800000, guid: 663b94e215eb33845924f994a873be28, type: 3}
+  _spaceTexture: {fileID: 2800000, guid: d15020ca72988cb4ba9b5b6772042aec, type: 3}
+  _marginTop: 2
+  _marginLeft: 2
+  _margiCharnVertical: 3
+  _charHeight: 9
+  _charMap: {fileID: 4900000, guid: 6d9d4a4e65b7a384d8d5e9e0040c2ca3, type: 3}
+  _spaceWidth: 5
+  _infoList:
+  - _text: "\u30A2"
+    _x: 2
+    _y: 206
+    _height: 9
+    _width: 9
+  - _text: "\u30A4"
+    _x: 14
+    _y: 206
+    _height: 9
+    _width: 9
+  - _text: "\u30A6"
+    _x: 26
+    _y: 206
+    _height: 9
+    _width: 9
+  - _text: "\u30A8"
+    _x: 38
+    _y: 206
+    _height: 9
+    _width: 9
+  - _text: "\u30AA"
+    _x: 50
+    _y: 206
+    _height: 9
+    _width: 9
+  - _text: "\u30AB"
+    _x: 2
+    _y: 194
+    _height: 9
+    _width: 9
+  - _text: "\u30AD"
+    _x: 14
+    _y: 194
+    _height: 9
+    _width: 9
+  - _text: "\u30AF"
+    _x: 26
+    _y: 194
+    _height: 9
+    _width: 8
+  - _text: "\u30B1"
+    _x: 37
+    _y: 194
+    _height: 9
+    _width: 9
+  - _text: "\u30B3"
+    _x: 49
+    _y: 194
+    _height: 9
+    _width: 9
+  - _text: "\u30B5"
+    _x: 2
+    _y: 182
+    _height: 9
+    _width: 9
+  - _text: "\u30B7"
+    _x: 14
+    _y: 182
+    _height: 9
+    _width: 9
+  - _text: "\u30B9"
+    _x: 26
+    _y: 182
+    _height: 9
+    _width: 9
+  - _text: "\u30BB"
+    _x: 38
+    _y: 182
+    _height: 9
+    _width: 9
+  - _text: "\u30BD"
+    _x: 50
+    _y: 182
+    _height: 9
+    _width: 9
+  - _text: "\u30BF"
+    _x: 2
+    _y: 170
+    _height: 9
+    _width: 8
+  - _text: "\u30C1"
+    _x: 13
+    _y: 170
+    _height: 9
+    _width: 9
+  - _text: "\u30C4"
+    _x: 25
+    _y: 170
+    _height: 9
+    _width: 10
+  - _text: "\u30C6"
+    _x: 38
+    _y: 170
+    _height: 9
+    _width: 9
+  - _text: "\u30C8"
+    _x: 50
+    _y: 170
+    _height: 9
+    _width: 7
+  - _text: "\u30CA"
+    _x: 2
+    _y: 158
+    _height: 9
+    _width: 9
+  - _text: "\u30CB"
+    _x: 14
+    _y: 158
+    _height: 9
+    _width: 9
+  - _text: "\u30CC"
+    _x: 26
+    _y: 158
+    _height: 9
+    _width: 9
+  - _text: "\u30CD"
+    _x: 38
+    _y: 158
+    _height: 9
+    _width: 9
+  - _text: "\u30CE"
+    _x: 50
+    _y: 158
+    _height: 9
+    _width: 8
+  - _text: "\u30CF"
+    _x: 2
+    _y: 146
+    _height: 9
+    _width: 9
+  - _text: "\u30D2"
+    _x: 14
+    _y: 146
+    _height: 9
+    _width: 9
+  - _text: "\u30D5"
+    _x: 26
+    _y: 146
+    _height: 9
+    _width: 8
+  - _text: "\u30D8"
+    _x: 37
+    _y: 146
+    _height: 9
+    _width: 9
+  - _text: "\u30DB"
+    _x: 49
+    _y: 146
+    _height: 9
+    _width: 10
+  - _text: "\u30DE"
+    _x: 2
+    _y: 134
+    _height: 9
+    _width: 9
+  - _text: "\u30DF"
+    _x: 14
+    _y: 134
+    _height: 9
+    _width: 8
+  - _text: "\u30E0"
+    _x: 25
+    _y: 134
+    _height: 9
+    _width: 9
+  - _text: "\u30E1"
+    _x: 37
+    _y: 134
+    _height: 9
+    _width: 9
+  - _text: "\u30E2"
+    _x: 49
+    _y: 134
+    _height: 9
+    _width: 9
+  - _text: "\u30E4"
+    _x: 2
+    _y: 122
+    _height: 9
+    _width: 9
+  - _text: "\u30E6"
+    _x: 19
+    _y: 122
+    _height: 9
+    _width: 9
+  - _text: "\u30E8"
+    _x: 36
+    _y: 122
+    _height: 9
+    _width: 9
+  - _text: "\u30E9"
+    _x: 2
+    _y: 110
+    _height: 9
+    _width: 8
+  - _text: "\u30EA"
+    _x: 13
+    _y: 110
+    _height: 9
+    _width: 7
+  - _text: "\u30EB"
+    _x: 23
+    _y: 110
+    _height: 9
+    _width: 10
+  - _text: "\u30EC"
+    _x: 36
+    _y: 110
+    _height: 9
+    _width: 8
+  - _text: "\u30ED"
+    _x: 47
+    _y: 110
+    _height: 9
+    _width: 9
+  - _text: "\u30EF"
+    _x: 2
+    _y: 98
+    _height: 9
+    _width: 9
+  - _text: "\u30F2"
+    _x: 19
+    _y: 98
+    _height: 9
+    _width: 9
+  - _text: "\u30F3"
+    _x: 36
+    _y: 98
+    _height: 9
+    _width: 9
+  - _text: "\u30A1"
+    _x: 2
+    _y: 86
+    _height: 9
+    _width: 8
+  - _text: "\u30A3"
+    _x: 13
+    _y: 86
+    _height: 9
+    _width: 8
+  - _text: "\u30A5"
+    _x: 24
+    _y: 86
+    _height: 9
+    _width: 8
+  - _text: "\u30A7"
+    _x: 35
+    _y: 86
+    _height: 9
+    _width: 8
+  - _text: "\u30A9"
+    _x: 46
+    _y: 86
+    _height: 9
+    _width: 8
+  - _text: "\u30AC"
+    _x: 2
+    _y: 74
+    _height: 9
+    _width: 13
+  - _text: "\u30AE"
+    _x: 18
+    _y: 74
+    _height: 9
+    _width: 13
+  - _text: "\u30B0"
+    _x: 34
+    _y: 74
+    _height: 9
+    _width: 13
+  - _text: "\u30B2"
+    _x: 50
+    _y: 74
+    _height: 9
+    _width: 13
+  - _text: "\u30B4"
+    _x: 66
+    _y: 74
+    _height: 9
+    _width: 13
+  - _text: "\u30B6"
+    _x: 2
+    _y: 62
+    _height: 9
+    _width: 14
+  - _text: "\u30B8"
+    _x: 19
+    _y: 62
+    _height: 9
+    _width: 13
+  - _text: "\u30BA"
+    _x: 35
+    _y: 62
+    _height: 9
+    _width: 13
+  - _text: "\u30BC"
+    _x: 52
+    _y: 62
+    _height: 9
+    _width: 12
+  - _text: "\u30BE"
+    _x: 67
+    _y: 62
+    _height: 9
+    _width: 13
+  - _text: "\u30C0"
+    _x: 2
+    _y: 50
+    _height: 9
+    _width: 13
+  - _text: "\u30C2"
+    _x: 18
+    _y: 50
+    _height: 9
+    _width: 13
+  - _text: "\u30C5"
+    _x: 34
+    _y: 50
+    _height: 9
+    _width: 14
+  - _text: "\u30C7"
+    _x: 51
+    _y: 50
+    _height: 9
+    _width: 13
+  - _text: "\u30C9"
+    _x: 67
+    _y: 50
+    _height: 9
+    _width: 11
+  - _text: "\u30D1"
+    _x: 2
+    _y: 38
+    _height: 9
+    _width: 13
+  - _text: "\u30D4"
+    _x: 18
+    _y: 38
+    _height: 9
+    _width: 12
+  - _text: "\u30D7"
+    _x: 33
+    _y: 38
+    _height: 9
+    _width: 12
+  - _text: "\u30DA"
+    _x: 48
+    _y: 38
+    _height: 9
+    _width: 12
+  - _text: "\u30DD"
+    _x: 63
+    _y: 38
+    _height: 9
+    _width: 14
+  - _text: "\u30D0"
+    _x: 2
+    _y: 26
+    _height: 9
+    _width: 13
+  - _text: "\u30D3"
+    _x: 18
+    _y: 26
+    _height: 9
+    _width: 12
+  - _text: "\u30D6"
+    _x: 33
+    _y: 26
+    _height: 9
+    _width: 13
+  - _text: "\u30D9"
+    _x: 49
+    _y: 26
+    _height: 9
+    _width: 11
+  - _text: "\u30DC"
+    _x: 64
+    _y: 26
+    _height: 9
+    _width: 13
+  - _text: "\u30F4"
+    _x: 2
+    _y: 14
+    _height: 9
+    _width: 13
+  - _text: '?'
+    _x: 18
+    _y: 14
+    _height: 9
+    _width: 8
+  - _text: '!'
+    _x: 29
+    _y: 14
+    _height: 9
+    _width: 4
+  - _text: "\u30FB"
+    _x: 38
+    _y: 14
+    _height: 9
+    _width: 4
+  - _text: "\u30FC"
+    _x: 45
+    _y: 14
+    _height: 9
+    _width: 8
+  - _text: "\u30E3"
+    _x: 2
+    _y: 2
+    _height: 9
+    _width: 8
+  - _text: "\u30E5"
+    _x: 13
+    _y: 2
+    _height: 9
+    _width: 8
+  - _text: "\u30E7"
+    _x: 24
+    _y: 2
+    _height: 9
+    _width: 7
+  - _text: "\u3001"
+    _x: 34
+    _y: 2
+    _height: 9
+    _width: 5
+  - _text: "\u3002"
+    _x: 42
+    _y: 2
+    _height: 9
+    _width: 7
+  - _text: "\u30C3"
+    _x: 52
+    _y: 2
+    _height: 9
+    _width: 10
+  - _text: '['
+    _x: 65
+    _y: 2
+    _height: 9
+    _width: 6
+  - _text: ']'
+    _x: 75
+    _y: 2
+    _height: 9
+    _width: 6

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d40c20f0e3a6af439309cfd8301e523, type: 3}
+  m_Name: Attack
+  m_EditorClassIdentifier: Takap.Utility::Takap.Utility.AnimationParamAsset
+  _param:
+    _name: Attack
+    _loopsCount: 1
+    _speed: 0.06
+    _flipX: 0
+    _flipY: 0
+    _spriteList:
+    - {fileID: -3030864678321738796, guid: 93c88f4b74174544f92a4c2cf5a40732, type: 3}
+    - {fileID: 7974238433921869510, guid: 93c88f4b74174544f92a4c2cf5a40732, type: 3}
+    - {fileID: -172967101338748056, guid: 93c88f4b74174544f92a4c2cf5a40732, type: 3}
+    - {fileID: -8253057865323516164, guid: 93c88f4b74174544f92a4c2cf5a40732, type: 3}
+    - {fileID: -7760244893261581439, guid: 93c88f4b74174544f92a4c2cf5a40732, type: 3}
+    - {fileID: 1901976467, guid: 93c88f4b74174544f92a4c2cf5a40732, type: 3}

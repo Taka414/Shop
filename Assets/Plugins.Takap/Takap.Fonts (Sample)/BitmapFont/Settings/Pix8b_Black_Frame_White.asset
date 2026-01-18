@@ -1,0 +1,278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c049777bb46c8344f87f5a9b207a2e98, type: 3}
+  m_Name: Pix8b_Black_Frame_White
+  m_EditorClassIdentifier: 
+  _sourceTexture: {fileID: 2800000, guid: 9d8aaf6763f68b04c8f2c0d456f10941, type: 3}
+  _spaceTexture: {fileID: 2800000, guid: d15020ca72988cb4ba9b5b6772042aec, type: 3}
+  _marginTop: 2
+  _marginLeft: 2
+  _margiCharnVertical: 3
+  _charHeight: 8
+  _charMap: {fileID: 4900000, guid: 4a614d81c6e759247a45ed8040a0ca92, type: 3}
+  _spaceWidth: 6
+  _infoList:
+  - _text: 1
+    _x: 2
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: 2
+    _x: 15
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: 3
+    _x: 28
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: 4
+    _x: 41
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: 5
+    _x: 54
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: 6
+    _x: 67
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: 7
+    _x: 80
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: 8
+    _x: 93
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: 9
+    _x: 106
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: 0
+    _x: 119
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: '!'
+    _x: 132
+    _y: 36
+    _height: 8
+    _width: 4
+  - _text: '?'
+    _x: 145
+    _y: 36
+    _height: 8
+    _width: 8
+  - _text: A
+    _x: 2
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: B
+    _x: 15
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: C
+    _x: 28
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: D
+    _x: 41
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: E
+    _x: 54
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: F
+    _x: 67
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: G
+    _x: 80
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: H
+    _x: 93
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: I
+    _x: 106
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: J
+    _x: 119
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: K
+    _x: 133
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: L
+    _x: 145
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: M
+    _x: 158
+    _y: 25
+    _height: 8
+    _width: 8
+  - _text: N
+    _x: 2
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: O
+    _x: 15
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: P
+    _x: 28
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: Q
+    _x: 41
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: R
+    _x: 54
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: S
+    _x: 67
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: T
+    _x: 80
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: U
+    _x: 93
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: V
+    _x: 106
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: W
+    _x: 119
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: X
+    _x: 132
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: Y
+    _x: 145
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: Z
+    _x: 158
+    _y: 14
+    _height: 8
+    _width: 8
+  - _text: .
+    _x: 2
+    _y: 3
+    _height: 8
+    _width: 4
+  - _text: ','
+    _x: 15
+    _y: 3
+    _height: 8
+    _width: 4
+  - _text: (
+    _x: 28
+    _y: 3
+    _height: 8
+    _width: 5
+  - _text: )
+    _x: 41
+    _y: 3
+    _height: 8
+    _width: 5
+  - _text: '['
+    _x: 54
+    _y: 3
+    _height: 8
+    _width: 5
+  - _text: ']'
+    _x: 67
+    _y: 3
+    _height: 8
+    _width: 5
+  - _text: +
+    _x: 80
+    _y: 3
+    _height: 8
+    _width: 5
+  - _text: '-'
+    _x: 93
+    _y: 3
+    _height: 8
+    _width: 5
+  - _text: /
+    _x: 106
+    _y: 3
+    _height: 8
+    _width: 7
+  - _text: _
+    _x: 119
+    _y: 3
+    _height: 8
+    _width: 7
+  - _text: '*'
+    _x: 132
+    _y: 3
+    _height: 8
+    _width: 7
+  - _text: '%'
+    _x: 145
+    _y: 3
+    _height: 8
+    _width: 8
+  - _text: ':'
+    _x: 158
+    _y: 3
+    _height: 8
+    _width: 4

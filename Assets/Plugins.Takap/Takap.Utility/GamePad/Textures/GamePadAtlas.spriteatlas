@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GamePadAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 23435dfb944e6024896baaf0d5c0d089, type: 3}
+    - {fileID: 102900000, guid: 77f45384b5c680c4495829758644b591, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 752db454ae78c0e4b9ff44833b9c2b8e: 21300000
+    - 1093bb549f74c2c4e8c88e6b64a86449: 21300000
+    - 50da036682e599e40b38d36edbee0d54: 21300000
+    - a4e0a69832107f9458a58fc7e54905c7: 21300000
+    - 7012e6a9bef4ee6488a71f5bf0fa26e1: 21300000
+    - 16feecb9d6cf267409a19316f6c494df: 21300000
+    - e22e815e283ae6b4c85339bfc69647d6: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 752db454ae78c0e4b9ff44833b9c2b8e, type: 3}
+  - {fileID: 21300000, guid: 1093bb549f74c2c4e8c88e6b64a86449, type: 3}
+  - {fileID: 21300000, guid: 50da036682e599e40b38d36edbee0d54, type: 3}
+  - {fileID: 21300000, guid: a4e0a69832107f9458a58fc7e54905c7, type: 3}
+  - {fileID: 21300000, guid: 7012e6a9bef4ee6488a71f5bf0fa26e1, type: 3}
+  - {fileID: 21300000, guid: 16feecb9d6cf267409a19316f6c494df, type: 3}
+  - {fileID: 21300000, guid: e22e815e283ae6b4c85339bfc69647d6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - pad_touch_neon
+  - pad_touch_circle
+  - pad_arrow_in
+  - pad_arrow_out 1
+  - Radial Outline 128px
+  - pad_base
+  - arrow_2
+  m_RenderDataMap: {}
+  m_Tag: GamePadAtlas
+  m_IsVariant: 0

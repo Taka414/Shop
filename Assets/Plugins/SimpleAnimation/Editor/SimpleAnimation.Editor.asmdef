@@ -1,0 +1,17 @@
+{
+    "name": "SimpleAnimation.Editor",
+    "references": [
+        "GUID:e2b0d23583ef3f645892dbaa3b6ef345"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

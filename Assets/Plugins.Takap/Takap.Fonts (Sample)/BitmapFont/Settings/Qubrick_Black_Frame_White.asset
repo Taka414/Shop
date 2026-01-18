@@ -1,0 +1,278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c049777bb46c8344f87f5a9b207a2e98, type: 3}
+  m_Name: Qubrick_Black_Frame_White
+  m_EditorClassIdentifier: 
+  _sourceTexture: {fileID: 2800000, guid: a752a32f019dd22428cff4c84875265c, type: 3}
+  _spaceTexture: {fileID: 2800000, guid: d15020ca72988cb4ba9b5b6772042aec, type: 3}
+  _marginTop: 2
+  _marginLeft: 2
+  _margiCharnVertical: 3
+  _charHeight: 7
+  _charMap: {fileID: 4900000, guid: f80c21e65fe30964b90dbcc05babf6ff, type: 3}
+  _spaceWidth: 4
+  _infoList:
+  - _text: 1
+    _x: 2
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: 2
+    _x: 12
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: 3
+    _x: 22
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: 4
+    _x: 32
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: 5
+    _x: 42
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: 6
+    _x: 52
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: 7
+    _x: 62
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: 8
+    _x: 72
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: 9
+    _x: 82
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: 0
+    _x: 92
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: '!'
+    _x: 104
+    _y: 32
+    _height: 7
+    _width: 3
+  - _text: '?'
+    _x: 112
+    _y: 32
+    _height: 7
+    _width: 7
+  - _text: A
+    _x: 2
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: B
+    _x: 12
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: C
+    _x: 22
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: D
+    _x: 32
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: E
+    _x: 42
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: F
+    _x: 52
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: G
+    _x: 62
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: H
+    _x: 72
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: I
+    _x: 82
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: J
+    _x: 92
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: K
+    _x: 102
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: L
+    _x: 112
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: M
+    _x: 122
+    _y: 22
+    _height: 7
+    _width: 7
+  - _text: N
+    _x: 2
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: O
+    _x: 12
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: P
+    _x: 22
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: Q
+    _x: 32
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: R
+    _x: 42
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: S
+    _x: 52
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: T
+    _x: 62
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: U
+    _x: 72
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: V
+    _x: 82
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: W
+    _x: 92
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: X
+    _x: 102
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: Y
+    _x: 112
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: Z
+    _x: 122
+    _y: 12
+    _height: 7
+    _width: 7
+  - _text: .
+    _x: 2
+    _y: 2
+    _height: 7
+    _width: 3
+  - _text: ','
+    _x: 12
+    _y: 2
+    _height: 7
+    _width: 3
+  - _text: (
+    _x: 24
+    _y: 2
+    _height: 7
+    _width: 4
+  - _text: )
+    _x: 33
+    _y: 2
+    _height: 7
+    _width: 4
+  - _text: '['
+    _x: 44
+    _y: 2
+    _height: 7
+    _width: 4
+  - _text: ']'
+    _x: 53
+    _y: 2
+    _height: 7
+    _width: 4
+  - _text: +
+    _x: 62
+    _y: 2
+    _height: 7
+    _width: 7
+  - _text: '-'
+    _x: 73
+    _y: 2
+    _height: 7
+    _width: 5
+  - _text: /
+    _x: 82
+    _y: 2
+    _height: 7
+    _width: 7
+  - _text: _
+    _x: 92
+    _y: 2
+    _height: 7
+    _width: 7
+  - _text: '*'
+    _x: 103
+    _y: 2
+    _height: 7
+    _width: 5
+  - _text: '%'
+    _x: 112
+    _y: 2
+    _height: 7
+    _width: 7
+  - _text: ':'
+    _x: 124
+    _y: 2
+    _height: 7
+    _width: 3

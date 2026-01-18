@@ -1,0 +1,28 @@
+{
+    "Data": [
+        {
+            "Enabled": true,
+            "Define": "ODIN_INSPECTOR",
+            "Description": "description: ODIN_INSPECTOR",
+            "Target": 0
+        },
+        {
+            "Enabled": true,
+            "Define": "ODIN_INSPECTOR_3",
+            "Description": "description: ODIN_INSPECTOR_3",
+            "Target": 0
+        },
+        {
+            "Enabled": true,
+            "Define": "UNITY_POST_PROCESSING_STACK_V2",
+            "Description": "description: UNITY_POST_PROCESSING_STACK_V2",
+            "Target": 0
+        },
+        {
+            "Enabled": true,
+            "Define": "UNITASK_DOTWEEN_SUPPORT",
+            "Description": "UniTaskのDOTwee拡張を有効化",
+            "Target": 0
+        }
+    ]
+}
