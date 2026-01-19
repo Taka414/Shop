@@ -1916,11 +1916,20 @@ namespace PluginMaster
                     }
                 return false;
             }
+#if UNITY_6000_3_OR_NEWER
+            public override void Update(EntityId componentId)
+#else
             public override void Update(int componentId)
+#endif
             {
                 base.Update(componentId);
+#if UNITY_6000_3_OR_NEWER
+                var CMVCam = UnityEditor.EditorUtility.EntityIdToObject(componentId)
+                    as Cinemachine.CinemachineVirtualCamera;
+#else
                 var CMVCam = UnityEditor.EditorUtility.InstanceIDToObject(componentId)
                     as Cinemachine.CinemachineVirtualCamera;
+#endif
                 System.Collections.Generic.List<ICinamechineComponentBaseData> compDataList
                     = new System.Collections.Generic.List<ICinamechineComponentBaseData>();
 #if PMS_CINE_MACHINE_2_6_OR_NEWER
