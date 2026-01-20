@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d13c874cb71bf934eaad6ac8d9616482, type: 3}
   m_Name: MasterDataPipelineSettings
   m_EditorClassIdentifier: _Project::Takap.Games.CheckAssets.MasterDataPipelineSettings
+  _isEnabled: 1
   _masterDataFileName: MasterData.xlsx
-  _outputPath: Assets/Generated/Data
+  _outputPath: Assets/_Project/Scripts/MasterData/Generated
