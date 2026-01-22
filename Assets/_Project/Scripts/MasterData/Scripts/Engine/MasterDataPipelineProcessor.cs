@@ -40,7 +40,10 @@ namespace Takap.Games.CheckAssets
         public void Process(string[] importedAssets)
         {
             Info info = GetAsset(importedAssets);
-            GenerateFromExcel(info);
+            if (info != null)
+            {
+                GenerateFromExcel(info);
+            }
         }
 
         //
@@ -77,7 +80,7 @@ namespace Takap.Games.CheckAssets
                 }
             }
 
-            throw new GameException("マスターファイルが見つかりません");
+            return null; // 見つからない場合無視
         }
 
         void GenerateFromExcel(Info info)
