@@ -12,5 +12,6 @@ EditorBuildSettings:
     path: Assets/PixelFantasy/PixelHeroes/FantasyHeroes/CharacterEditor.unity
     guid: 5bcac780d6a342eba0400717b06532f9
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 21c800bbba51d304ebec705c29f8164c, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

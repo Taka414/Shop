@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 8edb3caaa0f715044804f2b98dc84712
+  m_SerializeEntries:
+  - m_GUID: 010a002ac06d42742b638685b8fea7ba
+    m_Address: Assets/_Project/Textures/Icons/key_gold.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3323f47ee6f12ba4d8a58821599103fa
+    m_Address: Assets/_Project/Textures/Icons/key_common.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5af880c12a3fdb4b8e6a27f5bd99bff
+    m_Address: Assets/_Project/Textures/Icons/key_devil.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6622ee3b613f3a545860db6499911cb7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b8276cf43eda7794ab7fedd3327e0ecc, type: 2}
+    - {fileID: 11400000, guid: ef1b4a29713dfc147859d8fa3e5dc3f8, type: 2}
