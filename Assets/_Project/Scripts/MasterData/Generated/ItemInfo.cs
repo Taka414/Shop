@@ -3,6 +3,7 @@
 //
 
 using System;
+using UnityEngine;
 
 namespace Takap.Games.Shopping
 {
@@ -41,6 +42,7 @@ namespace Takap.Games.Shopping
         // - - - - - - - - - - - - - - - - - - - -
 
         public static implicit operator ItemInfo((uint key, string address) p) => new(p.key, p.address);
+        public static implicit operator uint(ItemInfo info) => info.Key;
 
         public static bool operator ==(ItemInfo left, ItemInfo right) => left.Equals(right);
         public static bool operator !=(ItemInfo left, ItemInfo right) => !left.Equals(right);

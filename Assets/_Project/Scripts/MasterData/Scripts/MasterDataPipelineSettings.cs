@@ -57,20 +57,20 @@ namespace Takap.Games.CheckAssets
         // Unity Impl
         // - - - - - - - - - - - - - - - - - - - -
 
-        void Awake()
-        {
-        
-        }
+        //void Awake()
+        //{
+        //
+        //}
     
-        void Start()
-        {
-        
-        }
+        //void Start()
+        //{
+        //
+        //}
 
-        void Update()
-        {
-        
-        }
+        //void Update()
+        //{
+        //
+        //}
     
         //
         // Methods
